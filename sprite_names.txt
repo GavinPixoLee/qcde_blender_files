@@ -1,0 +1,204 @@
+MG
+QCG2A0 - idle
+QCG2B0 - flash 1
+QCG2C0 - flash 2
+QCG2D0 - flash 3
+QCG2E0 - between
+
+HMG
+QCGbA0 - idle
+QCGbB0 - flash 1
+QCGbC0 - flash 1
+QCGbD0 - between 1
+QCGbE0 - between 1
+QCGbF0 - between 1
+QCGbG0 - flash 2
+QCGbH0 - flash 2
+QCGbI0 - between 2
+QCGbJ0 - between 2 (skipped)
+QCGbK0 - between 2
+QCGbL0 - flash 3
+QCGbM0 - flash 3
+QCGbN0 - between 3
+QCGbO0 - between 3
+QCGbP0 - between 3
+QCGbQ0 - spin down 
+QCGbR0 - spin down
+QCGbS0 - spin down
+QCGbT0 - spin down
+QCGbU0 - spin down
+
+SG
+QCG3A0 - idle
+QCG3B0 - flash
+QCG3C0 - between
+QCG3D0 - between
+QCG3E0 - between
+QCG3F0 - between
+QCG3G0 - between
+QCG3H0 - between
+
+SSG
+QCGCA0 - idle
+QCGCB0 - flash
+QCGCC0 - between
+QCGCD0 - between
+QCGCE0 - between
+QCGCF0 - between
+QCGCG0 - between
+QCGCH0 - between
+QCGCI0 - between
+QCGCJ0 - between
+QCGCK0 - between
+QCGCL0 - between
+QCGCM0 - between
+QCGCN0 - between
+QCGCO0 - between
+QCGCP0 - between
+QCGCQ0 - between
+QCGCR0 - between
+QCGCS0 - between
+QCGCT0 - between
+QCGCU0 - between
+
+NG
+QCG4A0 - idle
+QCG4B0 - flash
+QCG4C0 - flash
+QCG4D0 - flash
+QCG4E0 - between
+QCG4F0 - between
+QCG4G0 - spin down
+QCG4H0 - spin down
+QCG4I0 - spin down
+
+SNG
+QCGDA0 - idle (Q3A plasma gun idle cycle)
+QCGDB0 - spin down (Q3A plasma gun idle cycle)
+QCGDC0 - spin down (Q3A plasma gun idle cycle)
+QCGDD0 - spin down (Q3A plasma gun idle cycle)
+QCGDE0 - spin down (Q3A plasma gun idle cycle)
+QCGDF0 - spin down (Q3A plasma gun idle cycle)
+QCGDG0 - (skipped)
+QCGDH0 - (skipped)
+QCGDI0 - (skipped)
+QCGDJ0 - flash 1
+QCGDK0 - flash 2
+QCGDL0 - flash 3
+QCGDM0 - between
+QCGDN0 - between
+
+TB
+QCGEA0 - idle
+QCGEB0 - flash 1
+QCGEC0 - between 1
+QCGED0 - between 1
+QCGEE0 - flash 2
+QCGEF0 - between 2
+QCGEG0 - between 2
+QCGEH0 - between 2
+QCGEI0 - flash 3
+QCGEJ0 - between 3
+QCGEK0 - between 3
+QCGEL0 - between 3
+QCGEM0 - spin down (reload bolts)
+QCGEN0 - spin down (reload bolts)
+QCGEO0 - spin down (reload bolts)
+QCGEP0 - spin down (reload bolts)
+QCGEQ0 - spin down (reload bolts)
+QCGER0 - spin down (reload bolts)
+QCGES0 - spin down (reload bolts)
+
+RL
+QCG5A0 - idle
+QCG5B0 - flash
+QCG5C0 - flash (frame A is used after this one, between C and D)
+QCG5D0 - between (reload rocket)
+QCG5E0 - between (reload rocket)
+QCG5F0 - between (reload rocket)
+QCG5G0 - between (reload rocket)
+QCG5H0 - between (reload rocket)
+QCG5I0 - between (reload rocket)
+QCG5J0 - between (reload rocket)
+QCG5K0 - between (reload rocket)
+QCG5L0 - between (reload rocket)
+QCG5M0 - between (reload rocket)
+QCG5N0 - between (reload rocket)
+QCG5O0 - between (reload rocket)
+QCG5P0 - between (reload rocket)
+
+LG
+(main lg)
+QCG6A0 - idle
+QCG6B0 - idle
+QCG6C0 - idle
+QCG6D0 - idle
+QCG6E0 - idle
+QCG6F0 - idle
+QCG6G0 - beam fire
+QCG6H0 - beam fire
+QCG6I0 - beam fire
+QCG6J0 - beam fire
+QCG6K0 - beam fire
+QCG6L0 - beam fire
+QCG6M0 - idle (when you can't shoot)
+(upgraded lg)
+QCG6G0 - beam fire (upgraded)
+QCG6H0 - beam fire (upgraded)
+QCG6I0 - beam fire (upgraded)
+QCG6J0 - beam fire (upgraded)
+QCG6K0 - beam fire (upgraded)
+QCG6L0 - beam fire (upgraded)
+(beamless lg)
+QCGGG0 - beamless fire
+QCGGH0 - beamless fire
+QCGGI0 - beamless fire
+QCGGJ0 - beamless fire
+QCGGK0 - beamless fire
+QCGGL0 - beamless fire
+
+RG
+QCG7A0 - idle
+QCG7B0 - idle
+QCG7C0 - idle
+QCG7D0 - idle
+QCG7E0 - idle
+QCG7F0 - idle
+QCG7G0 - idle
+QCG7H0 - idle
+QCG7I0 - idle
+QCG7J0 - flash
+QCG7K0 - flash
+QCG7L0 - between
+QCG7M0 - between
+QCG7N0 - between
+QCG7O0 - between
+QCG7P0 - between
+QCG7Q0 - between
+QCG7R0 - between
+QCG7S0 - between
+QCG7T0 - between
+QCG7U0 - between
+QCG7V0 - between
+QCG7W0 - between
+
+BFG
+QCG8A0 - idle
+QCG8B0 - idle
+QCG8C0 - idle
+QCG8D0 - idle
+QCG8E0 - idle
+QCG8F0 - idle
+QCG8G0 - idle
+QCG8H0 - idle
+QCG8I0 - flash
+QCG8J0 - flash
+QCG8K0 - between
+QCG8L0 - between
+QCG8M0 - fully charged (upgraded)
+
+Gauntlet
+QCG1A0 - idle & spin down
+QCG1B0 - flash & spin down
+QCG1C0 - flash
+QCG1D0 - flash
