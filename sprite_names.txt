@@ -63,9 +63,9 @@ QCGCU0 - between
 
 NG
 QCG4A0 - idle
-QCG4B0 - flash
-QCG4C0 - flash
-QCG4D0 - flash
+QCG4B0 - flash 1
+QCG4C0 - flash 2
+QCG4D0 - flash 3(skipped)
 QCG4E0 - between
 QCG4F0 - between
 QCG4G0 - spin down
@@ -135,27 +135,27 @@ QCG6C0 - idle
 QCG6D0 - idle
 QCG6E0 - idle
 QCG6F0 - idle
-QCG6G0 - beam fire
-QCG6H0 - beam fire
-QCG6I0 - beam fire
-QCG6J0 - beam fire
-QCG6K0 - beam fire
-QCG6L0 - beam fire
+QCG6G0 - beam
+QCG6H0 - beam
+QCG6I0 - beam
+QCG6J0 - beam
+QCG6K0 - beam
+QCG6L0 - beam
 QCG6M0 - idle (when you can't shoot)
 (upgraded lg)
-QCG6G0 - beam fire (upgraded)
-QCG6H0 - beam fire (upgraded)
-QCG6I0 - beam fire (upgraded)
-QCG6J0 - beam fire (upgraded)
-QCG6K0 - beam fire (upgraded)
-QCG6L0 - beam fire (upgraded)
+QCGFG0 - beam (upgraded)
+QCGFH0 - beam (upgraded)
+QCGFI0 - beam (upgraded)
+QCGFJ0 - beam (upgraded)
+QCGFK0 - beam (upgraded)
+QCGFL0 - beam (upgraded)
 (beamless lg)
-QCGGG0 - beamless fire
-QCGGH0 - beamless fire
-QCGGI0 - beamless fire
-QCGGJ0 - beamless fire
-QCGGK0 - beamless fire
-QCGGL0 - beamless fire
+QCGGG0 - beamless
+QCGGH0 - beamless
+QCGGI0 - beamless
+QCGGJ0 - beamless
+QCGGK0 - beamless
+QCGGL0 - beamless
 
 RG
 QCG7A0 - idle
