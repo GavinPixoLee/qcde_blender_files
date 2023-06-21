@@ -1,9 +1,14 @@
 MG
-QCG2A0 - idle
+QCG2A0 - idle and spin down
 QCG2B0 - flash 1
-QCG2C0 - flash 2
-QCG2D0 - flash 3
-QCG2E0 - between
+QCG2C0 - flash 1
+QCG2D0 - flash 2
+QCG2E0 - flash 2
+QCG2F0 - flash 3
+QCG2G0 - flash 3
+QCG2H0 - between and spin down
+QCG2I0 - between and spin down
+QCG2J0 - between and spin down
 
 HMG
 QCGbA0 - idle
@@ -37,6 +42,7 @@ QCG3E0 - between
 QCG3F0 - between
 QCG3G0 - between
 QCG3H0 - between
+QCG3I0 - between
 
 SSG
 QCGCA0 - idle
@@ -64,10 +70,10 @@ QCGCU0 - between
 NG
 QCG4A0 - idle
 QCG4B0 - flash 1
-QCG4C0 - flash 2
-QCG4D0 - flash 3(skipped)
+QCG4C0 - between
+QCG4D0 - flash 2
 QCG4E0 - between
-QCG4F0 - between
+QCG4F0 - spin down
 QCG4G0 - spin down
 QCG4H0 - spin down
 QCG4I0 - spin down
@@ -128,6 +134,26 @@ QCG5O0 - between (reload rocket)
 QCG5P0 - between (reload rocket)
 
 LG
+QCF6A0 - spool up
+QCF6B0 - spool up
+QCF6C0 - spool up
+QCF6D0 - spool up
+QCF6E0 - spool up
+QCF6F0 - spool up
+QCF6G0 - spool up
+QCF6H0 - spool up
+QCF6I0 - spool up
+QCF6J0 - spool up
+QCF6K0 - spool up
+QCF6L0 - spool up
+QCF6M0 - spool up
+QCF6N0 - spool up
+QCF6O0 - spool up
+QCF6P0 - spool up
+QCF6Q0 - spool up
+QCF6R0 - spool up
+QCF6S0 - spool up
+QCF6T0 - spool up
 (main lg)
 QCG6A0 - idle
 QCG6B0 - idle
@@ -183,6 +209,12 @@ QCG7V0 - between
 QCG7W0 - between
 
 BFG
+QCF8A0 - spool up
+QCF8B0 - spool up
+QCF8C0 - spool up
+QCF8D0 - spool up
+QCF8E0 - spool up
+QCF8F0 - spool up
 QCG8A0 - idle
 QCG8B0 - idle
 QCG8C0 - idle
@@ -198,7 +230,39 @@ QCG8L0 - between
 QCG8M0 - fully charged (upgraded)
 
 Gauntlet
+QCF1A0 - spool up
+QCF1B0 - spool up
+QCF1C0 - spool up
+QCF1D0 - spool up
+QCF1E0 - spool up
+QCF1F0 - spool up
+QCF1G0 - spool up
+QCF1H0 - spool up
+QCF1I0 - spool up
+QCF1J0 - spool up
+QCF1K0 - spool up
+QCF1L0 - spool up
+QCF1M0 - spool up
+QCF1N0 - spool up
+QCF1O0 - spool up
+QCF1P0 - spool up
+QCF1Q0 - spool up
+QCF1R0 - spool up
+QCF1S0 - spool up
+QCF1T0 - spool up
+QCF1U0 - spool up
+QCF1V0 - spool up
+QCF1W0 - spool up
+QCF1X0 - spool up
+QCF1Y0 - spool up
+QCF1Z0 - spool up
 QCG1A0 - idle & spin down
 QCG1B0 - flash & spin down
 QCG1C0 - flash
 QCG1D0 - flash
+QCG1E0 - flash (fire)
+QCG1F0 - flash (fire)
+QCG1G0 - flash (fire)
+QCG1H0 - flash (fire)
+QCG1I0 - flash (fire)
+QCG1J0 - flash (fire)
